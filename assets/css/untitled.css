@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+  .nav-item {
+    --bs-body-color: var(--bs-navbar-active-color);
+  }
+}
+
